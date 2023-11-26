@@ -18,7 +18,7 @@
  * Input 2: abc123456kmo                                        *
  * Output 2: false                                              *
  ***************************************************************/
-
+                                                             
 import re
 def AlphabetSearching(str1):
     str1=str1.lower()
